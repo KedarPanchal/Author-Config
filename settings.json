@@ -1,0 +1,9 @@
+{
+    "editor.tabSize": 4,
+    "editor.detectIndentation": true,
+    "editor.wordWrap": "on",
+    "editor.fontSize": 16,
+    "editor.fontFamily": "Dubai",
+    "editor.letterSpacing": 0.25,
+    "terminal.integrated.fontFamily": "JetBrains Mono"
+}
